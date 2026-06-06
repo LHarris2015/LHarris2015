@@ -7,4 +7,4 @@
 - [Identity Logs]()
 - [Audit Logs]()
 - [Sign-In Logs]()
-- [Authentication]()
+- [Authentication](https://github.com/LHarris2015/authentication)
