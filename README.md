@@ -1,4 +1,4 @@
-## Hi, I'm LaTiana, a Cybersecurit, IAM Azure Associate
+## Hi, I'm LaTiana, a Cybersecurity, IAM Azure Associate
 - <b> Microsoft Azure Entra ID </b>
 - [Creating User's in Entra ID](https://github.com/LHarris2015/user-accounts)
 - [Cloud Provisioning -P2 Licensing]()
