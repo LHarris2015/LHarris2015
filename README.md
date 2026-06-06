@@ -4,7 +4,7 @@
 - [Cloud Provisioning -P2 Licensing](https://github.com/LHarris2015/p2-licensing)
 - [Role Assignments]()
 - [Group Assignments]()
-- [Identity Logs]()
+- [Identity Logs](https://github.com/LHarris2015/identity-lifecycle)
 - [Audit Logs](https://github.com/LHarris2015/audit-logs)
 - [Sign-In Logs](https://github.com/LHarris2015/sign-in-logs)
 - [Authentication](https://github.com/LHarris2015/authentication)
