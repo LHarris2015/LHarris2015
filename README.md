@@ -13,3 +13,12 @@
 
 Okta Administration
 
+- [Import Users from Entra ID to Okta Environment]()
+- [Enrollment Provisioning in Okta]()
+- [Creating Users in Okta Maally]()
+- [Add Attributes to User Profiles]()
+- [Crearting Groups in Okta Environment]()
+- [Attribute-BasedAccess Control (ABAC) Rules]()
+- [Device Management in Ota]()
+- [Audit Logs in Okta]()
+- [PowerShell]()
