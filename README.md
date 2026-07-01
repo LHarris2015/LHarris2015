@@ -13,7 +13,7 @@
 
 Okta Administration
 
-- [Import Users from Entra ID to Okta Environment]()
+- [Import Users from Entra ID to Okta Environment](https://github.com/LHarris2015/Import-Users-from-Entra-to-Okta-)
 - [Enrollment Provisioning in Okta]()
 - [Creating Users in Okta Maally]()
 - [Add Attributes to User Profiles]()
